@@ -4,6 +4,10 @@
 
 This project is a chat AI application built using React for the frontend and Express for the backend. It leverages the Google AI Generative Language API to generate responses based on user prompts. 
 
+![Screenshot 2024-08-09 180237](https://github.com/user-attachments/assets/32561088-511e-4890-8070-838a456d5371)
+
+
+
 ## Features
 
 - **Responsive Sidebar**: A sidebar that can be toggled open and closed.
