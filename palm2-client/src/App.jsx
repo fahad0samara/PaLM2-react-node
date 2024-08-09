@@ -213,7 +213,7 @@ function App() {
         >
           {sidebarOpen ? <FaTimes /> : <FaBars />}
         </button>
-        <h1 style={styles.heading}>MyPrompter</h1>
+  
         <div style={styles.content}>
           <div style={styles.innerContent}>
             {loading ? (
@@ -385,6 +385,14 @@ const styles = {
     alignItems: "center",
     backgroundColor: "#222",
     padding: "10px",
+    position:"fixed",
+    bottom: 0,
+    width:
+    "100%",
+    zIndex
+    : 1,
+    
+        
   },
   textareaContainer: {
     display: "flex",
